@@ -5,7 +5,7 @@ public class Main {
 
 
     public static void main(String[] args) {
-
+        // make a check on input
 
 
         try {
